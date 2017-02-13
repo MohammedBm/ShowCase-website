@@ -1,0 +1,30 @@
+body{
+font-family: 'Ubuntu', sans-serif;
+color: #363635;
+font-weight: 300;
+}
+
+.text-muted{
+	color:#BCBBBB;
+}
+.text-thin{
+	font-weight: 100;
+}
+.title-super{
+	font-size: 50px;
+}
+
+.featerd-mar{
+	margin-left: 10px;
+}
+
+
+
+.contact{
+	
+	margin-top: 20px;
+}
+
+.jumbotron-heading{
+	background-color: red;
+}
